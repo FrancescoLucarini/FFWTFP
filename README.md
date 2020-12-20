@@ -2,14 +2,23 @@
 Waf fuzzer and bypasser with proxy written in python2, at the end of every operation will have an output in .html format with a report of the work. This version is under development, and the next year I'll release in python3
 
 Installation:
+
 git clone https://github.com/FrancescoLucarini/FFWTFP/
+
 cd FFWTFP/
+
 pip install -r requirements.txt
+
 #You need to use pip
+
 #if the system says: pip command not found
+
 #try this: sudo apt-get install python-pip
+
 #if the requirements installation give u problem, it's because u don't have some dependencies
+
 #so try: pip install PrettyTable
+
 Usage&Docu:
 
 fuzz                check which symbols and keywords are allowed by the WAF.
