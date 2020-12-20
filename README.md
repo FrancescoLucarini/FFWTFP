@@ -1,5 +1,5 @@
 # FFWTFP
-Waf fuzzer and bypasser with proxy written in python2, at the end of every operation will have an output in .html output with a report of the work. This version is under development, and the next year I'll release in python3
+Waf fuzzer and bypasser with proxy written in python2, at the end of every operation will have an output in .html format with a report of the work. This version is under development, and the next year I'll release in python3
 
 Installation:
 git clone https://github.com/FrancescoLucarini/FFWTFP/
